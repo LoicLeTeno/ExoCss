@@ -1,0 +1,30 @@
+#h1Rouge{
+    color: red;
+}
+
+#h2SousTitre {
+color: blue;
+}
+
+#GrandP {
+    font-size: xx-large;
+    font-weight: bold;
+
+    background-color: red;
+}
+
+#h4JdeS {
+    text-decoration: underline;
+}
+
+#olItalique {
+    font-style: italic;
+}
+
+#h4ChoseDeAuj {
+
+}
+
+#ulItalique {
+    font-style: italic;
+}
